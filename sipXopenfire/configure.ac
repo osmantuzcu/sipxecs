@@ -22,5 +22,10 @@ AC_CONFIG_FILES([
   vcard-provider/Makefile
   config-plugin/Makefile
   ws-plugin/Makefile
+  mongo-lib/Makefile
+  mongo-lib/src/Makefile
+  mongo-lib/src/main/Makefile
+  mongo-lib/src/main/java/Makefile
+  mongo-sync-plugin/Makefile
 ])
 AC_OUTPUT

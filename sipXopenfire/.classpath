@@ -2,6 +2,9 @@
 <classpath>
 	<classpathentry kind="lib" path="/sipxcommons/lib/xmlrpc-common-3.1.jar"/>
 	<classpathentry kind="src" path="config-plugin/src"/>
+	<classpathentry kind="src" path="mongo-lib/src/main/java"/>
+	<classpathentry kind="src" path="mongo-sync-plugin/src"/>
+	<classpathentry excluding="test/|src/" kind="src" path="presence-plugin"/>
 	<classpathentry kind="src" path="sqa-plugin/src"/>
 	<classpathentry kind="src" path="vcard-provider/src"/>
 	<classpathentry kind="src" path="presence-plugin/test"/>

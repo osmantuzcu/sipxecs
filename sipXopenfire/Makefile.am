@@ -12,6 +12,8 @@ SUBDIRS = \
 	vcard-provider \
 	config-plugin \
 	ws-plugin \
+	mongo-lib \
+	mongo-sync-plugin \
 	etc \
 	bin
 
