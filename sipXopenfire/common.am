@@ -104,7 +104,6 @@ provider_PKGS_RT = \
 	commons-pool \
 	gnu-crypto
 
-sipxvcard_JAVAROOT = $(abspath $(top_builddir)/vcard-provider/classes)
 vcardsynchserver_JAVAROOT = $(abspath $(top_builddir)/vcard-synchserver/classes)
 
 mongolib_JAVAROOT = $(abspath $(top_builddir)/mongo-lib/src/main/java/classes)

@@ -19,7 +19,6 @@ AC_CONFIG_FILES([
   presence-plugin/Makefile
   sqa-plugin/Makefile
   vcard-synchserver/Makefile  
-  vcard-provider/Makefile
   config-plugin/Makefile
   ws-plugin/Makefile
   mongo-lib/Makefile
